@@ -1,1 +1,1 @@
-https://www.newelsh.github.io
+https://newelsh.github.io/
